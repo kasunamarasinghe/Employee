@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Employee.Models.Emplyee>
+
+@using Employee.Models;
+@{
+    ViewBag.Title = "Employee List";
+}
+<div style="font-family:'Times New Roman'"
+<h2>Index</h2>
+    <ul>
+        @foreach (Emplyee employee in @Model)
+        {
+            <li>
+                @Html.ActionLink(employee.EmployeeName,"EmployeeDetails",new {id=employee.EID})
+            </li>
+        }
+    </ul>
+    </div>
