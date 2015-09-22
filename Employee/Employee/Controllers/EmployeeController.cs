@@ -17,12 +17,11 @@ namespace Employee.Controllers
             Emplyee employee=new Emplyee()
             {
                 EID=1,
-
                 EmployeeName="Kasun",
                 Gender="Male",
                 City="Colombo"
             };
-            return View();
+            return View(employee);
         }
 
     }
