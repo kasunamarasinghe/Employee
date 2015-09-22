@@ -26,6 +26,8 @@ C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\Employee\Employee\obj\Debug\
 C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\Employee\Employee\obj\Debug\Employee.pdb
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\Employee.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\Employee.pdb
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.dll
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.SqlServer.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\Newtonsoft.Json.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Net.Http.Formatting.dll
@@ -37,6 +39,8 @@ C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.Razor.
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPages.Deployment.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPages.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.xml
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.SqlServer.xml
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\Newtonsoft.Json.xml
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Net.Http.Formatting.xml
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.Helpers.xml
@@ -47,10 +51,5 @@ C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.Razor.
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPages.xml
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\obj\Debug\Employee.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\obj\Debug\Employee.pdb
-C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.dll
-C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.SqlServer.dll
-C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.xml
-C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.SqlServer.xml
