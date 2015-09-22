@@ -8,6 +8,6 @@ namespace Employee.Models
 {
     public class EmployeeContext:DbContext
     {
-        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Emplyee> Employees { get; set; }
     }
 }

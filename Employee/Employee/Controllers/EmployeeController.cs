@@ -12,15 +12,12 @@ namespace Employee.Controllers
         //
         // GET: /Employee/
 
-        public ActionResult EmployeeDetails()
+        public ActionResult EmployeeDetails(int id)
         {
-            Emplyee employee=new Emplyee()
-            {
-                EID=1,
-                EmployeeName="Kasun",
-                Gender="Male",
-                City="Colombo"
-            };
+            EmployeeContext employeecontext=new EmployeeContext();
+           Emplyee employee= employeecontext.Employees.Single(emp => emp.EID == id);
+           
+           
             return View(employee);
         }
 

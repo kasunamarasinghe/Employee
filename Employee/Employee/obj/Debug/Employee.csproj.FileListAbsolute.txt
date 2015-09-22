@@ -50,3 +50,7 @@ C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\System.Web.WebPag
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\obj\Debug\Employee.dll
 C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.dll
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.SqlServer.dll
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.xml
+C:\Users\Kasun\Documents\GitHub\Employee\Employee\Employee\bin\EntityFramework.SqlServer.xml
